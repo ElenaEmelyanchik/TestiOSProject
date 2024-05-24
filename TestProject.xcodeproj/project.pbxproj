@@ -16,6 +16,7 @@
 		0A0380EF2BAC58350081AB79 /* TestProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A0380EE2BAC58350081AB79 /* TestProjectTests.swift */; };
 		0A0380F92BAC58350081AB79 /* TestProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A0380F82BAC58350081AB79 /* TestProjectUITests.swift */; };
 		0A0380FB2BAC58350081AB79 /* TestProjectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A0380FA2BAC58350081AB79 /* TestProjectUITestsLaunchTests.swift */; };
+		0A03810A2C009D690081AB79 /* test.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 0A0381092C009D690081AB79 /* test.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		0A0380F42BAC58350081AB79 /* TestProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A0380F82BAC58350081AB79 /* TestProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestProjectUITests.swift; sourceTree = "<group>"; };
 		0A0380FA2BAC58350081AB79 /* TestProjectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestProjectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		0A0381092C009D690081AB79 /* test.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = test.mp4; path = ../../../Downloads/test.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				0A0380DB2BAC58330081AB79 /* ViewController.swift */,
 				0A0380DD2BAC58330081AB79 /* Main.storyboard */,
 				0A0380E02BAC58350081AB79 /* Assets.xcassets */,
+				0A0381092C009D690081AB79 /* test.mp4 */,
 				0A0380E22BAC58350081AB79 /* LaunchScreen.storyboard */,
 				0A0380E52BAC58350081AB79 /* Info.plist */,
 			);
@@ -234,6 +237,7 @@
 				0A0380E12BAC58350081AB79 /* Assets.xcassets in Resources */,
 				0A0380E42BAC58350081AB79 /* Base in Resources */,
 				0A0380DF2BAC58330081AB79 /* Base in Resources */,
+				0A03810A2C009D690081AB79 /* test.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
